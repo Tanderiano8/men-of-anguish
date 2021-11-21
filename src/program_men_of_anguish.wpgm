@@ -1,0 +1,12 @@
+import wollok.game.*
+
+program menOfAnguish {
+	
+	game.title("Men of Anguish") 
+	game.height(10)
+	game.width(10)
+	game.cellSize(100)
+	game.boardGround("espania.png")
+	game.start()	
+	
+}
